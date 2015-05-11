@@ -1,0 +1,3194 @@
+{
+	"folder_history":
+	[
+		"/home/eugen/gandalf",
+		"/home/eugen/RinceWind/myax",
+		"/home/eugen/docker-wagtail-www",
+		"/home/eugen/dumbledore",
+		"/home/eugen/RinceWind",
+		"/home/eugen/polymer-tutorial-master",
+		"/home/eugen/Templates",
+		"/home/eugen/polymertutorial/polymer-tutorial-master",
+		"/home/eugen/polymertutorial",
+		"/home/eugen/polymertutorial/polymer-tutorial-master/finished",
+		"/home/eugen/myax",
+		"/home/eugen/polymertutorial/polymer-tutorial-master/starter",
+		"/home/eugen/tutorial",
+		"/home/eugen/docker-wagtail-www/project/core",
+		"/home/eugen/www2",
+		"/home/eugen/RinceWind/rincewind",
+		"/home/eugen/www2/scss",
+		"/home/eugen/www2/foundation-libsass-template"
+	],
+	"last_version": 3083,
+	"last_window_id": 52,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 0.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"se",
+						"sender"
+					],
+					[
+						"selec",
+						"selected"
+					],
+					[
+						"paper",
+						"paper-tab	paper-tab"
+					],
+					[
+						"doc",
+						"document〔variable〕"
+					],
+					[
+						"padd",
+						"padding-right"
+					],
+					[
+						"hei",
+						"height: "
+					],
+					[
+						"margin",
+						"margin-bottom"
+					],
+					[
+						"padding",
+						"padding-bottom"
+					],
+					[
+						"mar",
+						"margin: "
+					],
+					[
+						"margi",
+						"margin-bottom"
+					],
+					[
+						"robo",
+						"robotSaysText〔argument〕"
+					],
+					[
+						"ro",
+						"robotSaysText"
+					],
+					[
+						"robot",
+						"robotSaysparam〔argument〕"
+					],
+					[
+						"R",
+						"RobotTypes"
+					],
+					[
+						"rob",
+						"robotSaysText〔variable〕"
+					],
+					[
+						"fu",
+						"function"
+					],
+					[
+						"set",
+						"setTimeout〔function〕"
+					],
+					[
+						"ver",
+						"vertical-align: "
+					],
+					[
+						"font",
+						"font-size: 〔property〕"
+					],
+					[
+						"webkit-us",
+						"-webkit-border-bottom-left-radius: 〔property〕"
+					],
+					[
+						"pos",
+						"pos:r	position:relative"
+					],
+					[
+						"li",
+						"listed-Myax.html"
+					],
+					[
+						"core",
+						"core-ajax	core-ajax"
+					],
+					[
+						"c",
+						"core-ajax/"
+					],
+					[
+						"link",
+						"link"
+					],
+					[
+						"po",
+						"polymer/"
+					],
+					[
+						"end",
+						"endif"
+					],
+					[
+						"F",
+						"False"
+					],
+					[
+						"wa",
+						"wagtail"
+					],
+					[
+						"conta",
+						"contactContainer"
+					],
+					[
+						"ani",
+						"animateTo"
+					],
+					[
+						"chil",
+						"children〔function〕"
+					],
+					[
+						"to",
+						"toggleClass〔function〕"
+					],
+					[
+						"em",
+						"email"
+					],
+					[
+						"back",
+						"background-color"
+					],
+					[
+						"bac",
+						"background-color"
+					],
+					[
+						"z-in",
+						"z-index: "
+					],
+					[
+						"zin",
+						"z-index: "
+					],
+					[
+						"b",
+						"bottom"
+					],
+					[
+						"name",
+						"namesHeight"
+					],
+					[
+						"nam",
+						"namesHeight〔variable〕"
+					],
+					[
+						"outer",
+						"outerHeight	.outerHeight()"
+					],
+					[
+						"na",
+						"namesHeight"
+					],
+					[
+						"rotate",
+						"rotate90"
+					],
+					[
+						"p",
+						"pb	padding-bottom"
+					],
+					[
+						"e",
+						"email"
+					],
+					[
+						"un",
+						"unbind	.unbind()"
+					],
+					[
+						"icon",
+						"icon2"
+					],
+					[
+						"vi",
+						"visibility"
+					],
+					[
+						"i",
+						"icon1"
+					],
+					[
+						"v",
+						"visible"
+					],
+					[
+						"ic",
+						"icon2"
+					],
+					[
+						"ch",
+						"children	.children()"
+					],
+					[
+						"par",
+						"parents"
+					],
+					[
+						"toggle",
+						"toggleClass	.toggleClass()"
+					],
+					[
+						"cs",
+						"css	.css() - single"
+					],
+					[
+						"el",
+						"elements"
+					],
+					[
+						"has",
+						"hasClass	.hasClass()"
+					],
+					[
+						"slide",
+						"slideUp	.slideUp()"
+					],
+					[
+						"con",
+						"console"
+					],
+					[
+						"this",
+						"this	$(this)"
+					],
+					[
+						"emp",
+						"employees"
+					],
+					[
+						"co",
+						"console"
+					],
+					[
+						"if",
+						"if	if"
+					],
+					[
+						"sc",
+						"script"
+					],
+					[
+						"a",
+						"append	.append()"
+					],
+					[
+						"last",
+						"lastElement〔variable〕"
+					],
+					[
+						"cl",
+						"click〔function〕"
+					],
+					[
+						"rea",
+						"ready	jQuery(document).ready"
+					],
+					[
+						"n",
+						"namesText"
+					],
+					[
+						"d",
+						"div"
+					],
+					[
+						"cals",
+						"class=〔attribute〕"
+					],
+					[
+						"fri",
+						"firstrow"
+					],
+					[
+						"sp",
+						"span	Tag"
+					],
+					[
+						"first",
+						"firstrow"
+					],
+					[
+						"te",
+						"telephone"
+					],
+					[
+						"va",
+						"value"
+					],
+					[
+						"bl",
+						"block"
+					],
+					[
+						"C",
+						"CharBlock"
+					],
+					[
+						"emplo",
+						"emploees"
+					],
+					[
+						"mo",
+						"models〔module〕"
+					],
+					[
+						"w",
+						"wagtail"
+					],
+					[
+						"re",
+						"required"
+					],
+					[
+						"T",
+						"True"
+					],
+					[
+						"class",
+						"classname"
+					],
+					[
+						"max",
+						"max_length"
+					],
+					[
+						"Ch",
+						"CharField"
+					],
+					[
+						"L",
+						"LANGUAGE_CHOICES"
+					],
+					[
+						"ge",
+						"get_all_styles〔module〕"
+					],
+					[
+						"get",
+						"get_all_lexers"
+					],
+					[
+						"fr",
+						"from〔keyword〕"
+					],
+					[
+						"m",
+						"models〔module〕"
+					],
+					[
+						"sta",
+						"static"
+					],
+					[
+						"context",
+						"context"
+					],
+					[
+						"E",
+						"EngineTemplateListView"
+					],
+					[
+						"vie",
+						"views"
+					],
+					[
+						"ha",
+						"hasattr〔function〕"
+					],
+					[
+						"pr",
+						"print〔function〕"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						"Syntax Check"
+					]
+				],
+				[
+					[
+						[
+							"Packages/SASS Build/SASS - Compressed.sublime-build",
+							""
+						],
+						[
+							"Packages/SASS Build/SASS.sublime-build",
+							""
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/SASS Build/SASS.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"last_filter": "to",
+				"selected_items":
+				[
+					[
+						"to",
+						"Toggle Block Comment"
+					],
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"open f",
+						"Preferences: OpenFolder Settings - User"
+					],
+					[
+						"setbas",
+						"Set Syntax: Shell Script (Bash)"
+					],
+					[
+						"file sa",
+						"File: Save All"
+					],
+					[
+						"anf",
+						"ANF: New File"
+					],
+					[
+						"dif",
+						"FileDiffs: Menu"
+					],
+					[
+						"html",
+						"HTMLBeautify"
+					],
+					[
+						"list",
+						"Package Control: List Unmanaged Packages"
+					],
+					[
+						"key ",
+						"Keymaps: Cheat Sheet"
+					],
+					[
+						"spell",
+						"Google Spell Check"
+					],
+					[
+						"save",
+						"File: Save All"
+					],
+					[
+						"be",
+						"SassBeautify"
+					],
+					[
+						"surr",
+						"Surround: surround selection"
+					],
+					[
+						"sass",
+						"Build With: SASS"
+					],
+					[
+						"s",
+						"SassBeautify"
+					],
+					[
+						"htm",
+						"HTMLBeautify"
+					],
+					[
+						"surround",
+						"Surround: surround selection"
+					],
+					[
+						" set syntax p",
+						"Set Syntax: Python (Django)"
+					],
+					[
+						"set",
+						"Set Syntax: HTML"
+					],
+					[
+						"set py",
+						"Set Syntax: Python (Django)"
+					],
+					[
+						"sublime linter",
+						"SublimeLinter: Disable Linter"
+					],
+					[
+						"show",
+						"SublimeLinter: Don’t Show Errors on Save"
+					],
+					[
+						"set syntax dj",
+						"Set Syntax: Python (Django)"
+					],
+					[
+						"set ",
+						"Set Syntax: HTML"
+					],
+					[
+						"re",
+						"File: Reveal"
+					],
+					[
+						"file",
+						"File: New File Relative to Current View"
+					],
+					[
+						"pack",
+						"Package Control: Install Package"
+					],
+					[
+						"poy",
+						"Snippet: polymer html boilerplate"
+					],
+					[
+						"git di",
+						"Git: Diff Current File"
+					],
+					[
+						"ht",
+						"HTMLBeautify"
+					],
+					[
+						"tog",
+						"Toggle Block Comment"
+					],
+					[
+						"js",
+						"Format: Javascript"
+					],
+					[
+						"html ",
+						"HTMLBeautify"
+					],
+					[
+						"beau",
+						"SassBeautify"
+					],
+					[
+						"bea",
+						"SassBeautify"
+					],
+					[
+						"file s",
+						"File: Save All"
+					],
+					[
+						"for",
+						"Format: Javascript"
+					],
+					[
+						"install ",
+						"Package Control: Install Package"
+					],
+					[
+						"j",
+						"Format: Javascript"
+					],
+					[
+						"sorrou",
+						"Surround: surround selection"
+					],
+					[
+						"set syntax js",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"bEATYF",
+						"HTMLBeautify"
+					],
+					[
+						"set sy j",
+						"Set Syntax: JavaScript"
+					],
+					[
+						" set s dh",
+						"Set Syntax: HTML (Django)"
+					],
+					[
+						"set js",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"set syntax jq",
+						"Set Syntax: jQuery (JavaScript)"
+					],
+					[
+						"pa",
+						"Package Control: Install Package"
+					],
+					[
+						"h",
+						"HTMLBeautify"
+					],
+					[
+						"set bash",
+						"Set Syntax: Shell Script (Bash)"
+					],
+					[
+						"set ba",
+						"Set Syntax: Batch File"
+					],
+					[
+						"emmet ",
+						"Set Syntax: Emmet"
+					],
+					[
+						"to c",
+						"Toggle Comment"
+					],
+					[
+						"surrou",
+						"Surround: surround selection"
+					],
+					[
+						"surro",
+						"Surround: surround selection"
+					],
+					[
+						"lint",
+						"SublimeLinter: Lint This View"
+					],
+					[
+						"se cs",
+						"Set Syntax: CSS"
+					],
+					[
+						"hta",
+						"HTMLBeautify"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"sho",
+						"SublimeLinter: Show All Errors"
+					],
+					[
+						"suli",
+						"SublimeLinter: Next Error"
+					],
+					[
+						"linter",
+						"SublimeLinter: Lint This View"
+					],
+					[
+						"set linter",
+						"SublimeLinter: Toggle Linter"
+					],
+					[
+						"install package ",
+						"Package Control: Install Package"
+					],
+					[
+						"sass be",
+						"SassBeautify"
+					],
+					[
+						"bui",
+						"Build With: SASS"
+					],
+					[
+						"reve",
+						"File: Reveal"
+					],
+					[
+						"http",
+						"RESTer: HTTP Request"
+					],
+					[
+						"bracket",
+						"Preferences: BracketGuard Settings - Default"
+					],
+					[
+						"key",
+						"Preferences: Key Bindings - User"
+					],
+					[
+						"vie",
+						"View: Toggle Menu"
+					],
+					[
+						"set ja",
+						"Set Syntax: JSON"
+					],
+					[
+						"v",
+						"View: Toggle Menu"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"find",
+						"FindKeyConflicts: All Conflicts"
+					],
+					[
+						"user",
+						"Preferences: Key Bindings - User"
+					],
+					[
+						"prin",
+						"Print Entire File"
+					],
+					[
+						"djan",
+						"Snippet: Django template for loop"
+					],
+					[
+						"googe",
+						"Google Spell Check"
+					],
+					[
+						"git ",
+						"Git: Commit"
+					],
+					[
+						"git dif",
+						"Git: Diff Current File"
+					],
+					[
+						"git",
+						"Git: Commit"
+					],
+					[
+						"dja",
+						"Snippet: Django template autoescape"
+					],
+					[
+						"django",
+						"Set Syntax: Python (Django)"
+					],
+					[
+						"snippet dj",
+						"Snippet: Django template for empty loop"
+					],
+					[
+						"sets dh",
+						"Set Syntax: HTML (Django)"
+					],
+					[
+						"new",
+						"ANF: New File"
+					],
+					[
+						"jaon",
+						"Pretty JSON: Format (Pretty Print) JSON"
+					],
+					[
+						"pre",
+						"Pretty JSON: Format (Pretty Print) JSON"
+					],
+					[
+						"jsform",
+						"Pretty JSON: Format (Pretty Print) JSON"
+					],
+					[
+						"lis",
+						"Package Control: List Packages"
+					],
+					[
+						"format",
+						"Pretty JSON: Format (Pretty Print) JSON"
+					],
+					[
+						"vei",
+						"View: Toggle Side Bar"
+					],
+					[
+						"pac",
+						"Package Control: Install Package"
+					],
+					[
+						"set Syntax dj",
+						"Set Syntax: HTML (Django)"
+					],
+					[
+						"set syntax",
+						"Set Syntax: Sass"
+					],
+					[
+						"side ba",
+						"View: Toggle Open Files in Side Bar"
+					],
+					[
+						"laun",
+						"Glue - Launch"
+					],
+					[
+						"repl pyhon",
+						"SublimeREPL: Python - Sublime Text Console"
+					],
+					[
+						"show a",
+						"SublimeLinter: Show All Errors"
+					],
+					[
+						"vi",
+						"View: Toggle Menu"
+					],
+					[
+						"toggel si",
+						"View: Toggle Side Bar"
+					],
+					[
+						"g",
+						"Glue - Launch"
+					],
+					[
+						"glue",
+						"Glue - Launch"
+					],
+					[
+						"prety",
+						"Pretty JSON: Format (Pretty Print) JSON"
+					],
+					[
+						"glu",
+						"Glue - Launch"
+					],
+					[
+						"show al",
+						"SublimeLinter: Show All Errors"
+					],
+					[
+						"git dir",
+						"Git: Diff Current File"
+					],
+					[
+						"gits",
+						"Git: Status"
+					],
+					[
+						"show er",
+						"SublimeLinter: Don’t Show Errors on Save"
+					],
+					[
+						"show ",
+						"SublimeLinter: Show All Errors"
+					],
+					[
+						"sunb",
+						"SublimeLinter: Next Error"
+					],
+					[
+						"lin",
+						"SublimeLinter: Choose Gutter Theme"
+					],
+					[
+						"set syntay",
+						"Set Syntax: Python (Django)"
+					],
+					[
+						"sub",
+						"SublimeLinter: Choose Lint Mode"
+					],
+					[
+						"sublime",
+						"SublimeLinter: Choose Gutter Theme"
+					],
+					[
+						"next ",
+						"SublimeLinter: Next Error"
+					],
+					[
+						"selt lint",
+						"SublimeLinter: Choose Lint Mode"
+					],
+					[
+						"setLint mo",
+						"SublimeLinter: Choose Lint Mode"
+					],
+					[
+						"pc ",
+						"Package Control: Install Package"
+					],
+					[
+						"lint mo",
+						"SublimeLinter: Choose Lint Mode"
+					],
+					[
+						"pc re",
+						"Package Control: Remove Package"
+					],
+					[
+						"pc li",
+						"Package Control: List Packages"
+					],
+					[
+						"goo",
+						"Google Search: Search selected text/word"
+					],
+					[
+						"pa lis",
+						"Package Control: List Packages"
+					],
+					[
+						"packc i",
+						"Package Control: Advanced Install Package"
+					]
+				],
+				"width": 746.0
+			},
+			"console":
+			{
+				"height": 474.0,
+				"history":
+				[
+					"print ('hi')",
+					"build",
+					"find",
+					"ident",
+					"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/eugen/polymer-tutorial-master/starter/index.html",
+				"/home/eugen/polymer-tutorial-master/starter/post-list.html",
+				"/home/eugen/polymer-tutorial-master/starter/post-card.html",
+				"/home/eugen/polymer-tutorial-master/post-service/post-service.html",
+				"/home/eugen/polymer-tutorial-master/finished/post-list.html",
+				"/home/eugen/polymer-tutorial-master/finished/post-card.html",
+				"/home/eugen/docker-wagtail-www/project/core/templates/core/team_page.html",
+				"/home/eugen/docker-wagtail-www/project/core/templates/404.html",
+				"/home/eugen/www2/scss/_settings.scss",
+				"/home/eugen/docker-wagtail-www/project/core/templates/core/base.html",
+				"/home/eugen/docker-wagtail-www/project/project/settings/dev.py",
+				"/home/eugen/docker-wagtail-www/project/project/settings/base.py",
+				"/home/eugen/docker-wagtail-www/project/project/urls.py",
+				"/home/eugen/docker-wagtail-www/cp.htlm",
+				"/home/eugen/RinceWind/myax/.travis.yml",
+				"/home/eugen/polymertutorial/polymer-tutorial-master/finished/index.html",
+				"/home/eugen/polymertutorial/polymer-tutorial-master/finished/post-list.html",
+				"/home/eugen/polymertutorial/polymer-tutorial-master/myax/myax.html",
+				"/home/eugen/polymertutorial/polymer-tutorial-master/finished/post-card.html",
+				"/home/eugen/docker-wagtail-www/project/core/models.py",
+				"/home/eugen/docker-wagtail-www/project/core/static/js/app.js",
+				"/home/eugen/docker-wagtail-www/project/core/static/js/teampage.js",
+				"/home/eugen/www2/scss/app.scss",
+				"/home/eugen/scripts/pushmaster.sh",
+				"/home/eugen/scripts/cptast.sh",
+				"/home/eugen/docker-wagtail-www/project/core/static/css/app.css",
+				"/home/eugen/docker-wagtail-www/project/core/static/css/app.css.map",
+				"/home/eugen/docker-wagtail-www/project/core/static/img/telephone5.svg",
+				"/home/eugen/docker-wagtail-www/project/core/static/img/email5.svg",
+				"/home/eugen/www2/css/app.css",
+				"/home/eugen/.config/sublime-text-3/Packages/BracketGuard/BracketGuard.sublime-settings",
+				"/home/eugen/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+				"/home/eugen/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+				"/home/eugen/.config/sublime-text-3/Packages/google-search/google_search.sublime-settings",
+				"/home/eugen/docker-wagtail-www/project/core/migrations/0018_auto_20150408_1904.py",
+				"/home/eugen/docker-wagtail-www/project/requirements.txt",
+				"/home/eugen/docker-wagtail-www/project/project/wsgi.py",
+				"/home/eugen/docker-wagtail-www/project/core/templates/core/two_column_main_page.html",
+				"/home/eugen/docker-wagtail-www/project/manage.py",
+				"/home/eugen/docker-wagtail-www/Dockerfile",
+				"/home/eugen/RinceWind/rincewind/rincewind/atml/admin.py",
+				"/home/eugen/RinceWind/rincewind/rincewind/atml/models.py",
+				"/home/eugen/www2/template.html",
+				"/home/eugen/docker-wagtail-www/project/core/templates/core/product_page.html",
+				"/home/eugen/docker-wagtail-www/project/core/templates/core/home_page.html",
+				"/home/eugen/docker-wagtail-www/project/core/templates/core/one_column_main_page.html",
+				"/home/eugen/docker-wagtail-www/project/core/static/bower_components/foundation/scss/foundation/components/_global.scss",
+				"/home/eugen/test.json",
+				"/home/eugen/docker-wagtail-www/project/core/static/www2/scss/app.scss",
+				"/home/eugen/RinceWind/rincewind/rincewind/atml/urls.py",
+				"/home/eugen/RinceWind/rincewind/rincewind/atml/views.py",
+				"/home/eugen/RinceWind/rincewind/rincewind/rincewind/urls.py",
+				"/home/eugen/RinceWind/rincewind/rincewind/rincewind/celery.py",
+				"/home/eugen/RinceWind/myax/update.sh",
+				"/home/eugen/RinceWind/rincewind/rincewind/atml/utils.py",
+				"/home/eugen/.config/sublime-text-3/Packages/SublimeCodeIntel/Default (Linux).sublime-keymap",
+				"/home/eugen/RinceWind/rincewind/rincewind/rincewind/wsgi.py",
+				"/home/eugen/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+				"/home/eugen/RinceWind/rincewind/docs/conf.py",
+				"/home/eugen/scrips/init1.sh",
+				"/home/eugen/Downloads/init.sh",
+				"/home/eugen/.config/sublime-text-3/Packages/User/Glue.sublime-settings",
+				"/home/eugen/RinceWind/rincewind/rincewind/rincewind/git status",
+				"/home/eugen/RinceWind/morgana/lib/external-scripts/ga.js",
+				"/home/eugen/RinceWind/rincewind/docs/deploy.rst",
+				"/home/eugen/RinceWind/morgana/config/environment.js",
+				"/home/eugen/RinceWind/myax/myax/templates/account/verified_email_required.html",
+				"/home/eugen/RinceWind/morgana/app/helpers/text-with-errors.js",
+				"/home/eugen/RinceWind/cinderella/LICENSE.txt",
+				"/home/eugen/RinceWind/myax/myax/templates/account/messages/logged_in.txt",
+				"/home/eugen/RinceWind/morgana/tests/unit/controllers/user-check-list/index-test.js"
+			],
+			"find":
+			{
+				"height": 26.0
+			},
+			"find_in_files":
+			{
+				"height": 93.0,
+				"where_history":
+				[
+					"/home/eugen/docker-wagtail-www",
+					"<project>",
+					"/home/eugen/RinceWind/myax",
+					"<project>",
+					"/home/eugen/RinceWind/rincewind",
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"post",
+					"serve",
+					"gulpserve",
+					"https: true",
+					"cors",
+					"cros",
+					"same",
+					"elements",
+					"src=\"/",
+					"/",
+					"{\n",
+					"setFavorite",
+					"setFavorit",
+					"setFavorite",
+					"favorite-tap",
+					"avorite-tap",
+					"favoriteTapped",
+					"robotSaysTextparam",
+					"\n            ",
+					"font-size",
+					"gain",
+					"False",
+					"debug",
+					"content",
+					"wagtail_urls",
+					"script",
+					"navigation ",
+					"navigation row",
+					"set_password",
+					"setpassword",
+					"User",
+					"token",
+					"core-select",
+					"act",
+					"core-select",
+					"act",
+					"act  ",
+					"action",
+					"  ",
+					"name",
+					"html",
+					"robert",
+					"danije",
+					"danjela",
+					"lisa",
+					"alex",
+					"ka",
+					"adela",
+					"peter",
+					"arne",
+					"jochen",
+					"philipp",
+					"bern",
+					"cor",
+					"bea",
+					"simon",
+					"men",
+					"andreas",
+					"zsolt",
+					"dennis",
+					"denis",
+					"sarah",
+					"paz",
+					"niki",
+					"ki",
+					"josef",
+					"baris",
+					"armin",
+					"jose",
+					" W.*",
+					" R.*",
+					" W.*",
+					" V.*",
+					" U.*",
+					" T.*",
+					" S.*",
+					" R.*",
+					" P.*",
+					" O.*",
+					" L.*",
+					" M.*",
+					"M.*",
+					"ML.*",
+					" L.*",
+					"L.*",
+					" K.*",
+					"icon2.*",
+					"padding",
+					"console.*",
+					"console.",
+					":{{",
+					"toggleClass",
+					"                $(\".arrow-icon-1\").css(\"visibility\",\"hidden\" );\n                $(\".arrow-icon-2\").css(\"visibility\",\"visible\");\n",
+					"li",
+					"&li",
+					"#77bc1f",
+					"display",
+					"		{",
+					"self",
+					"static",
+					"large-2",
+					"large-9",
+					"large-1",
+					"large-25",
+					"large-1",
+					"large-9",
+					"large-8",
+					"li",
+					"employee",
+					"svg",
+					"</td>",
+					"<td>",
+					"</tr>",
+					"<tr>",
+					"employee",
+					"selection",
+					" {",
+					"button",
+					"hacks",
+					"employee",
+					"employe",
+					"						\n",
+					"</td>",
+					"<td>",
+					"</tr>",
+					"<tr>",
+					"<table>",
+					"table"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"True",
+					"",
+					"large-1",
+					"large-14",
+					"large-2",
+					"large-14",
+					"large-2",
+					"large-15",
+					"large-9",
+					""
+				],
+				"reverse": false,
+				"show_context": false,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": false
+			},
+			"incremental_find":
+			{
+				"height": 26.0
+			},
+			"input":
+			{
+				"height": 33.0
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 311.0
+			},
+			"output.find_results":
+			{
+				"height": 118.0
+			},
+			"output.git":
+			{
+				"height": 27.0
+			},
+			"output.unsaved_changes":
+			{
+				"height": 104.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 48.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"bas",
+						"myax/templates/base.html"
+					],
+					[
+						"docker",
+						"docker-compose.yml"
+					],
+					[
+						"post-ser",
+						"post-service/post-service.html"
+					],
+					[
+						"post-list",
+						"starter/post-list.html"
+					],
+					[
+						"post",
+						"finished/post-list.html"
+					],
+					[
+						"post-card",
+						"starter/post-card.html"
+					],
+					[
+						"index",
+						"starter/index.html"
+					],
+					[
+						"tea",
+						"project/core/templates/core/team_page.html"
+					],
+					[
+						"",
+						"project/core/templates/core/base.html"
+					],
+					[
+						"dev",
+						"project/project/settings/dev.py"
+					],
+					[
+						"base",
+						"project/project/settings/base.py"
+					],
+					[
+						"u",
+						"project/project/urls.py"
+					],
+					[
+						"url",
+						"project/project/urls.py"
+					],
+					[
+						"mod",
+						"myax/main/models.py"
+					],
+					[
+						"ba",
+						"project/core/templates/core/base.html"
+					],
+					[
+						"my",
+						"polymer-tutorial-master/myax/myax.html"
+					],
+					[
+						"m",
+						"project/core/models.py"
+					],
+					[
+						"mo",
+						"project/core/models.py"
+					],
+					[
+						"hoe",
+						"project/core/templates/core/home_page.html"
+					],
+					[
+						"a",
+						"~/www2/scss/app.scss"
+					],
+					[
+						"t",
+						"project/core/static/js/teampage.js"
+					],
+					[
+						"te",
+						"project/core/static/js/teampage.js"
+					],
+					[
+						"ap",
+						"project/core/static/js/app.js"
+					],
+					[
+						"app",
+						"~/www2/scss/app.scss"
+					],
+					[
+						"app.css",
+						"project/core/static/css/app.css"
+					],
+					[
+						"appcss",
+						"project/core/static/css/app.css"
+					],
+					[
+						"req",
+						"project/requirements.txt"
+					],
+					[
+						"app.s",
+						"project/core/static/www2/scss/app.scss"
+					],
+					[
+						"admin",
+						"rincewind/rincewind/atml/admin.py"
+					],
+					[
+						"adm",
+						"rincewind/rincewind/atml/admin.py"
+					],
+					[
+						"testexel",
+						"rincewind/rincewind/atml/tests/test_excel_io.py"
+					],
+					[
+						"atmlur",
+						"rincewind/rincewind/atml/urls.py"
+					],
+					[
+						"rincewindcel",
+						"rincewind/rincewind/rincewind/celery.py"
+					],
+					[
+						".py",
+						"cinderella/docs/__init__.py"
+					],
+					[
+						"ur",
+						"rincewind/rincewind/rincewind/urls.py"
+					],
+					[
+						"urls",
+						"rincewind/rincewind/rincewind/urls.py"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"~/RinceWind/rincewind/rincewind/atml/Rincewind.sublime-workspace"
+					]
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 392.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"#map_canvas"
+					]
+				],
+				"width": 422.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 489.0,
+			"status_bar_visible": false,
+			"template_settings":
+			{
+				"max_columns": 1
+			}
+		},
+		"new_window_width": 0.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"pa",
+						"paper-slider	paper-slider"
+					],
+					[
+						"se",
+						"sender"
+					],
+					[
+						"selec",
+						"selected"
+					],
+					[
+						"paper",
+						"paper-tab	paper-tab"
+					],
+					[
+						"doc",
+						"document〔variable〕"
+					],
+					[
+						"padd",
+						"padding-right"
+					],
+					[
+						"hei",
+						"height: "
+					],
+					[
+						"margin",
+						"margin-bottom"
+					],
+					[
+						"padding",
+						"padding-bottom"
+					],
+					[
+						"mar",
+						"margin: "
+					],
+					[
+						"margi",
+						"margin-bottom"
+					],
+					[
+						"robo",
+						"robotSaysText〔argument〕"
+					],
+					[
+						"ro",
+						"robotSaysText"
+					],
+					[
+						"robot",
+						"robotSaysparam〔argument〕"
+					],
+					[
+						"R",
+						"RobotTypes"
+					],
+					[
+						"rob",
+						"robotSaysText〔variable〕"
+					],
+					[
+						"fu",
+						"function"
+					],
+					[
+						"set",
+						"setTimeout〔function〕"
+					],
+					[
+						"ver",
+						"vertical-align: "
+					],
+					[
+						"font",
+						"font-size: 〔property〕"
+					],
+					[
+						"webkit-us",
+						"-webkit-border-bottom-left-radius: 〔property〕"
+					],
+					[
+						"pos",
+						"pos:r	position:relative"
+					],
+					[
+						"li",
+						"listed-Myax.html"
+					],
+					[
+						"core",
+						"core-ajax	core-ajax"
+					],
+					[
+						"c",
+						"core-ajax/"
+					],
+					[
+						"link",
+						"link"
+					],
+					[
+						"po",
+						"polymer/"
+					],
+					[
+						"end",
+						"endif"
+					],
+					[
+						"F",
+						"False"
+					],
+					[
+						"wa",
+						"wagtail"
+					],
+					[
+						"conta",
+						"contactContainer"
+					],
+					[
+						"ani",
+						"animateTo"
+					],
+					[
+						"chil",
+						"children〔function〕"
+					],
+					[
+						"to",
+						"toggleClass〔function〕"
+					],
+					[
+						"em",
+						"email"
+					],
+					[
+						"back",
+						"background-color"
+					],
+					[
+						"bac",
+						"background-color"
+					],
+					[
+						"z-in",
+						"z-index: "
+					],
+					[
+						"zin",
+						"z-index: "
+					],
+					[
+						"b",
+						"bottom"
+					],
+					[
+						"name",
+						"namesHeight"
+					],
+					[
+						"nam",
+						"namesHeight〔variable〕"
+					],
+					[
+						"outer",
+						"outerHeight	.outerHeight()"
+					],
+					[
+						"na",
+						"namesHeight"
+					],
+					[
+						"rotate",
+						"rotate90"
+					],
+					[
+						"p",
+						"pb	padding-bottom"
+					],
+					[
+						"e",
+						"email"
+					],
+					[
+						"un",
+						"unbind	.unbind()"
+					],
+					[
+						"icon",
+						"icon2"
+					],
+					[
+						"vi",
+						"visibility"
+					],
+					[
+						"i",
+						"icon1"
+					],
+					[
+						"v",
+						"visible"
+					],
+					[
+						"ic",
+						"icon2"
+					],
+					[
+						"ch",
+						"children	.children()"
+					],
+					[
+						"par",
+						"parents"
+					],
+					[
+						"toggle",
+						"toggleClass	.toggleClass()"
+					],
+					[
+						"cs",
+						"css	.css() - single"
+					],
+					[
+						"el",
+						"elements"
+					],
+					[
+						"has",
+						"hasClass	.hasClass()"
+					],
+					[
+						"slide",
+						"slideUp	.slideUp()"
+					],
+					[
+						"con",
+						"console"
+					],
+					[
+						"this",
+						"this	$(this)"
+					],
+					[
+						"emp",
+						"employees"
+					],
+					[
+						"co",
+						"console"
+					],
+					[
+						"if",
+						"if	if"
+					],
+					[
+						"sc",
+						"script"
+					],
+					[
+						"a",
+						"append	.append()"
+					],
+					[
+						"last",
+						"lastElement〔variable〕"
+					],
+					[
+						"cl",
+						"click〔function〕"
+					],
+					[
+						"rea",
+						"ready	jQuery(document).ready"
+					],
+					[
+						"n",
+						"namesText"
+					],
+					[
+						"d",
+						"div"
+					],
+					[
+						"cals",
+						"class=〔attribute〕"
+					],
+					[
+						"fri",
+						"firstrow"
+					],
+					[
+						"sp",
+						"span	Tag"
+					],
+					[
+						"first",
+						"firstrow"
+					],
+					[
+						"te",
+						"telephone"
+					],
+					[
+						"va",
+						"value"
+					],
+					[
+						"bl",
+						"block"
+					],
+					[
+						"C",
+						"CharBlock"
+					],
+					[
+						"emplo",
+						"emploees"
+					],
+					[
+						"mo",
+						"models〔module〕"
+					],
+					[
+						"w",
+						"wagtail"
+					],
+					[
+						"re",
+						"required"
+					],
+					[
+						"T",
+						"True"
+					],
+					[
+						"class",
+						"classname"
+					],
+					[
+						"max",
+						"max_length"
+					],
+					[
+						"Ch",
+						"CharField"
+					],
+					[
+						"L",
+						"LANGUAGE_CHOICES"
+					],
+					[
+						"ge",
+						"get_all_styles〔module〕"
+					],
+					[
+						"get",
+						"get_all_lexers"
+					],
+					[
+						"fr",
+						"from〔keyword〕"
+					],
+					[
+						"m",
+						"models〔module〕"
+					],
+					[
+						"sta",
+						"static"
+					],
+					[
+						"context",
+						"context"
+					],
+					[
+						"E",
+						"EngineTemplateListView"
+					],
+					[
+						"vie",
+						"views"
+					],
+					[
+						"ha",
+						"hasattr〔function〕"
+					],
+					[
+						"pr",
+						"print〔function〕"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"contents": "<!DOCTYPE html>\n<html>\n<head>\n	<title></title>\n</head>\n<body>	\n	\n</body>\n</html>",
+					"file": "/home/eugen/gandalf/app/index.html",
+					"file_size": 172,
+					"file_write_time": 130758322490078657,
+					"settings":
+					{
+						"buffer_size": 80,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "<link rel=\"import\" href=\"polymer/polymer.html\">\n<link rel=\"import\" href=\"core-ajax/core-ajax.html\">\n<link rel=\"import\" href=\"core-list/core-list.html\">\n<link rel=\"import\" href=\"core-item/core-item.html\">\n<!-- \n  `<post-service>` provides an API for a fake service -- \n  _unquote_, the read-only social networking service!\n\n  Provides a very simple API: `posts` returns the list of posts.\n  `setFavorite` pretends to persist a user's favorite choice.\n\n  @element post-service\n  @demo \n  @homepage http://www.polymer-project.org/docs/start/tutorial.html\n-->\n\n<!--\n  An array of post objects, with the following format:\n\n  <table border=\"0\">\n    <tr>\n      <td><code>uid</code></td>\n      <td>Number</td>\n      <td>Unique ID for this post.</td>\n    </tr>\n     <tr>\n      <td><code>username</code></td>\n      <td>String</td>\n      <td>Poster's username.</td>\n    </tr>\n    <tr>\n      <td><code>avatar</code></td>\n      <td>String</td>\n      <td>URL for the user's avatar.</td>\n    </tr>  \n    <tr>\n      <td><code>text</code></td>\n      <td>String</td>\n      <td>Post text.</td>\n    </tr>  \n    <tr>\n      <td><code>favorite</code></td>\n      <td>Boolean</td>\n      <td>True if the current user favorited this post.</td>\n    </tr>\n  </table>\n  \n  @attribute posts \n  @type Array\n  @default []\n-->\n<polymer-element name=\"post-service\" attributes=\"posts\">\n  <template   >\n    <style>\n    :host {\n      \n    }\n    </style>\n    <core-ajax id=\"ajax\"\n      auto\n      method=\"get\"\n      headers='{\"Access-Control-Allow-Origin\": \"*\", \"Access-Control-Allow-Credentials\": \"true\" ,\"Authorization\": \"Token 4506d69a8282e95a6e369e0aea2f40ac589e5c0e\" }'\n      url=\"http://localhost:8000/api/v1/me/\"\n      on-core-response=\"{{postsLoaded}}\"\n      handleAs=\"json\">\n    </core-ajax>\n    \n\n    </core-item>\n  </template>\n\n  <script>\n  Polymer('post-service', {\n    created: function() {\n      this.posts = [];\n    },\n    postsLoaded: function() {\n      // Make a copy of the loaded data\n      console.log(this.$.ajax.response);\n      this.posts = this.$.ajax.response.slice(0);\n    },\n    /** \n     * Update the service with the current favorite value.\n     * (Two-way data binding updates the favorite value \n     * stored locally.) If this was a real service, this\n     * method would do something useful.\n     * \n     * @method setFavorite\n     * @param uid {Number} Unique ID for post.\n     * @param isFavorite {Boolean} True if the user marked this post as a favorite.\n     */\n    setFavorite: function(uid, isFavorite) {\n      // no service backend, just log the change\n      console.log('Favorite changed: ' + uid + \", now: \" + isFavorite);\n    }\n  });\n  </script>\n</polymer-element>\n",
+					"file": "/home/eugen/gandalf/bower_components/post-service.html",
+					"file_size": 2669,
+					"file_write_time": 130758323956439166,
+					"settings":
+					{
+						"buffer_size": 2669,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "<polymer-element name=\"auth-elm\" attributes=\"\">\n	<template>\n		<link rel=\"stylesheet\" href=\".css\">\n		<link rel=\"import\" href=\"post-service.html\">\n	\n	</template>\n	<script>\n		Polymer({\n			\n		});\n	</script>\n</polymer-element>\n",
+					"file": "/home/eugen/gandalf/auth-elm.html",
+					"file_size": 0,
+					"file_write_time": 130758327628900206,
+					"settings":
+					{
+						"buffer_size": 222,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/eugen/gandalf/bower_components/paper-slider/paper-slider.html",
+					"settings":
+					{
+						"buffer_size": 10180,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						"Syntax Check"
+					]
+				],
+				[
+					[
+						[
+							"Packages/SASS Build/SASS - Compressed.sublime-build",
+							""
+						],
+						[
+							"Packages/SASS Build/SASS.sublime-build",
+							""
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/SASS Build/SASS.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"last_filter": "reve",
+				"selected_items":
+				[
+					[
+						"reve",
+						"File: Reveal"
+					],
+					[
+						"user",
+						"Preferences: Key Bindings - User"
+					],
+					[
+						"ke",
+						"Preferences: Key Bindings - Default"
+					],
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"to",
+						"Toggle Block Comment"
+					],
+					[
+						"open f",
+						"Preferences: OpenFolder Settings - User"
+					],
+					[
+						"setbas",
+						"Set Syntax: Shell Script (Bash)"
+					],
+					[
+						"file sa",
+						"File: Save All"
+					],
+					[
+						"anf",
+						"ANF: New File"
+					],
+					[
+						"dif",
+						"FileDiffs: Menu"
+					],
+					[
+						"html",
+						"HTMLBeautify"
+					],
+					[
+						"list",
+						"Package Control: List Unmanaged Packages"
+					],
+					[
+						"key ",
+						"Keymaps: Cheat Sheet"
+					],
+					[
+						"spell",
+						"Google Spell Check"
+					],
+					[
+						"save",
+						"File: Save All"
+					],
+					[
+						"be",
+						"SassBeautify"
+					],
+					[
+						"surr",
+						"Surround: surround selection"
+					],
+					[
+						"sass",
+						"Build With: SASS"
+					],
+					[
+						"s",
+						"SassBeautify"
+					],
+					[
+						"htm",
+						"HTMLBeautify"
+					],
+					[
+						"surround",
+						"Surround: surround selection"
+					],
+					[
+						" set syntax p",
+						"Set Syntax: Python (Django)"
+					],
+					[
+						"set",
+						"Set Syntax: HTML"
+					],
+					[
+						"set py",
+						"Set Syntax: Python (Django)"
+					],
+					[
+						"sublime linter",
+						"SublimeLinter: Disable Linter"
+					],
+					[
+						"show",
+						"SublimeLinter: Don’t Show Errors on Save"
+					],
+					[
+						"set syntax dj",
+						"Set Syntax: Python (Django)"
+					],
+					[
+						"set ",
+						"Set Syntax: HTML"
+					],
+					[
+						"re",
+						"File: Reveal"
+					],
+					[
+						"file",
+						"File: New File Relative to Current View"
+					],
+					[
+						"pack",
+						"Package Control: Install Package"
+					],
+					[
+						"poy",
+						"Snippet: polymer html boilerplate"
+					],
+					[
+						"git di",
+						"Git: Diff Current File"
+					],
+					[
+						"ht",
+						"HTMLBeautify"
+					],
+					[
+						"tog",
+						"Toggle Block Comment"
+					],
+					[
+						"js",
+						"Format: Javascript"
+					],
+					[
+						"html ",
+						"HTMLBeautify"
+					],
+					[
+						"beau",
+						"SassBeautify"
+					],
+					[
+						"bea",
+						"SassBeautify"
+					],
+					[
+						"file s",
+						"File: Save All"
+					],
+					[
+						"for",
+						"Format: Javascript"
+					],
+					[
+						"install ",
+						"Package Control: Install Package"
+					],
+					[
+						"j",
+						"Format: Javascript"
+					],
+					[
+						"sorrou",
+						"Surround: surround selection"
+					],
+					[
+						"set syntax js",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"bEATYF",
+						"HTMLBeautify"
+					],
+					[
+						"set sy j",
+						"Set Syntax: JavaScript"
+					],
+					[
+						" set s dh",
+						"Set Syntax: HTML (Django)"
+					],
+					[
+						"set js",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"set syntax jq",
+						"Set Syntax: jQuery (JavaScript)"
+					],
+					[
+						"pa",
+						"Package Control: Install Package"
+					],
+					[
+						"h",
+						"HTMLBeautify"
+					],
+					[
+						"set bash",
+						"Set Syntax: Shell Script (Bash)"
+					],
+					[
+						"set ba",
+						"Set Syntax: Batch File"
+					],
+					[
+						"emmet ",
+						"Set Syntax: Emmet"
+					],
+					[
+						"to c",
+						"Toggle Comment"
+					],
+					[
+						"surrou",
+						"Surround: surround selection"
+					],
+					[
+						"surro",
+						"Surround: surround selection"
+					],
+					[
+						"lint",
+						"SublimeLinter: Lint This View"
+					],
+					[
+						"se cs",
+						"Set Syntax: CSS"
+					],
+					[
+						"hta",
+						"HTMLBeautify"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"sho",
+						"SublimeLinter: Show All Errors"
+					],
+					[
+						"suli",
+						"SublimeLinter: Next Error"
+					],
+					[
+						"linter",
+						"SublimeLinter: Lint This View"
+					],
+					[
+						"set linter",
+						"SublimeLinter: Toggle Linter"
+					],
+					[
+						"install package ",
+						"Package Control: Install Package"
+					],
+					[
+						"sass be",
+						"SassBeautify"
+					],
+					[
+						"bui",
+						"Build With: SASS"
+					],
+					[
+						"http",
+						"RESTer: HTTP Request"
+					],
+					[
+						"bracket",
+						"Preferences: BracketGuard Settings - Default"
+					],
+					[
+						"key",
+						"Preferences: Key Bindings - User"
+					],
+					[
+						"vie",
+						"View: Toggle Menu"
+					],
+					[
+						"set ja",
+						"Set Syntax: JSON"
+					],
+					[
+						"v",
+						"View: Toggle Menu"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"find",
+						"FindKeyConflicts: All Conflicts"
+					],
+					[
+						"prin",
+						"Print Entire File"
+					],
+					[
+						"djan",
+						"Snippet: Django template for loop"
+					],
+					[
+						"googe",
+						"Google Spell Check"
+					],
+					[
+						"git ",
+						"Git: Commit"
+					],
+					[
+						"git dif",
+						"Git: Diff Current File"
+					],
+					[
+						"git",
+						"Git: Commit"
+					],
+					[
+						"dja",
+						"Snippet: Django template autoescape"
+					],
+					[
+						"django",
+						"Set Syntax: Python (Django)"
+					],
+					[
+						"snippet dj",
+						"Snippet: Django template for empty loop"
+					],
+					[
+						"sets dh",
+						"Set Syntax: HTML (Django)"
+					],
+					[
+						"new",
+						"ANF: New File"
+					],
+					[
+						"jaon",
+						"Pretty JSON: Format (Pretty Print) JSON"
+					],
+					[
+						"pre",
+						"Pretty JSON: Format (Pretty Print) JSON"
+					],
+					[
+						"jsform",
+						"Pretty JSON: Format (Pretty Print) JSON"
+					],
+					[
+						"lis",
+						"Package Control: List Packages"
+					],
+					[
+						"format",
+						"Pretty JSON: Format (Pretty Print) JSON"
+					],
+					[
+						"vei",
+						"View: Toggle Side Bar"
+					],
+					[
+						"pac",
+						"Package Control: Install Package"
+					],
+					[
+						"set Syntax dj",
+						"Set Syntax: HTML (Django)"
+					],
+					[
+						"set syntax",
+						"Set Syntax: Sass"
+					],
+					[
+						"side ba",
+						"View: Toggle Open Files in Side Bar"
+					],
+					[
+						"laun",
+						"Glue - Launch"
+					],
+					[
+						"repl pyhon",
+						"SublimeREPL: Python - Sublime Text Console"
+					],
+					[
+						"show a",
+						"SublimeLinter: Show All Errors"
+					],
+					[
+						"vi",
+						"View: Toggle Menu"
+					],
+					[
+						"toggel si",
+						"View: Toggle Side Bar"
+					],
+					[
+						"g",
+						"Glue - Launch"
+					],
+					[
+						"glue",
+						"Glue - Launch"
+					],
+					[
+						"prety",
+						"Pretty JSON: Format (Pretty Print) JSON"
+					],
+					[
+						"glu",
+						"Glue - Launch"
+					],
+					[
+						"show al",
+						"SublimeLinter: Show All Errors"
+					],
+					[
+						"git dir",
+						"Git: Diff Current File"
+					],
+					[
+						"gits",
+						"Git: Status"
+					],
+					[
+						"show er",
+						"SublimeLinter: Don’t Show Errors on Save"
+					],
+					[
+						"show ",
+						"SublimeLinter: Show All Errors"
+					],
+					[
+						"sunb",
+						"SublimeLinter: Next Error"
+					],
+					[
+						"lin",
+						"SublimeLinter: Choose Gutter Theme"
+					],
+					[
+						"set syntay",
+						"Set Syntax: Python (Django)"
+					],
+					[
+						"sub",
+						"SublimeLinter: Choose Lint Mode"
+					],
+					[
+						"sublime",
+						"SublimeLinter: Choose Gutter Theme"
+					],
+					[
+						"next ",
+						"SublimeLinter: Next Error"
+					],
+					[
+						"selt lint",
+						"SublimeLinter: Choose Lint Mode"
+					],
+					[
+						"setLint mo",
+						"SublimeLinter: Choose Lint Mode"
+					],
+					[
+						"pc ",
+						"Package Control: Install Package"
+					],
+					[
+						"lint mo",
+						"SublimeLinter: Choose Lint Mode"
+					],
+					[
+						"pc re",
+						"Package Control: Remove Package"
+					],
+					[
+						"pc li",
+						"Package Control: List Packages"
+					],
+					[
+						"goo",
+						"Google Search: Search selected text/word"
+					],
+					[
+						"pa lis",
+						"Package Control: List Packages"
+					],
+					[
+						"packc i",
+						"Package Control: Advanced Install Package"
+					]
+				],
+				"width": 746.0
+			},
+			"console":
+			{
+				"height": 474.0,
+				"history":
+				[
+					"print ('hi')",
+					"build",
+					"find",
+					"ident",
+					"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/home/eugen/gandalf",
+				"/home/eugen/gandalf/app",
+				"/home/eugen/gandalf/bower_components",
+				"/home/eugen/gandalf/bower_components/paper-item",
+				"/home/eugen/gandalf/bower_components/paper-slider"
+			],
+			"file_history":
+			[
+				"/home/eugen/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+				"/home/eugen/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+				"/home/eugen/gandalf/node_modules/web-component-tester/node_modules/wd/install-node.sh",
+				"/home/eugen/polymer-tutorial-master/starter/index.html",
+				"/home/eugen/polymer-tutorial-master/starter/post-list.html",
+				"/home/eugen/polymer-tutorial-master/starter/post-card.html",
+				"/home/eugen/polymer-tutorial-master/post-service/post-service.html",
+				"/home/eugen/polymer-tutorial-master/finished/post-list.html",
+				"/home/eugen/polymer-tutorial-master/finished/post-card.html",
+				"/home/eugen/docker-wagtail-www/project/core/templates/core/team_page.html",
+				"/home/eugen/docker-wagtail-www/project/core/templates/404.html",
+				"/home/eugen/www2/scss/_settings.scss",
+				"/home/eugen/docker-wagtail-www/project/core/templates/core/base.html",
+				"/home/eugen/docker-wagtail-www/project/project/settings/dev.py",
+				"/home/eugen/docker-wagtail-www/project/project/settings/base.py",
+				"/home/eugen/docker-wagtail-www/project/project/urls.py",
+				"/home/eugen/docker-wagtail-www/cp.htlm",
+				"/home/eugen/RinceWind/myax/.travis.yml",
+				"/home/eugen/polymertutorial/polymer-tutorial-master/finished/index.html",
+				"/home/eugen/polymertutorial/polymer-tutorial-master/finished/post-list.html",
+				"/home/eugen/polymertutorial/polymer-tutorial-master/myax/myax.html",
+				"/home/eugen/polymertutorial/polymer-tutorial-master/finished/post-card.html",
+				"/home/eugen/docker-wagtail-www/project/core/models.py",
+				"/home/eugen/docker-wagtail-www/project/core/static/js/app.js",
+				"/home/eugen/docker-wagtail-www/project/core/static/js/teampage.js",
+				"/home/eugen/www2/scss/app.scss",
+				"/home/eugen/scripts/pushmaster.sh",
+				"/home/eugen/scripts/cptast.sh",
+				"/home/eugen/docker-wagtail-www/project/core/static/css/app.css",
+				"/home/eugen/docker-wagtail-www/project/core/static/css/app.css.map",
+				"/home/eugen/docker-wagtail-www/project/core/static/img/telephone5.svg",
+				"/home/eugen/docker-wagtail-www/project/core/static/img/email5.svg",
+				"/home/eugen/www2/css/app.css",
+				"/home/eugen/.config/sublime-text-3/Packages/BracketGuard/BracketGuard.sublime-settings",
+				"/home/eugen/.config/sublime-text-3/Packages/google-search/google_search.sublime-settings",
+				"/home/eugen/docker-wagtail-www/project/core/migrations/0018_auto_20150408_1904.py",
+				"/home/eugen/docker-wagtail-www/project/requirements.txt",
+				"/home/eugen/docker-wagtail-www/project/project/wsgi.py",
+				"/home/eugen/docker-wagtail-www/project/core/templates/core/two_column_main_page.html",
+				"/home/eugen/docker-wagtail-www/project/manage.py",
+				"/home/eugen/docker-wagtail-www/Dockerfile",
+				"/home/eugen/RinceWind/rincewind/rincewind/atml/admin.py",
+				"/home/eugen/RinceWind/rincewind/rincewind/atml/models.py",
+				"/home/eugen/www2/template.html",
+				"/home/eugen/docker-wagtail-www/project/core/templates/core/product_page.html",
+				"/home/eugen/docker-wagtail-www/project/core/templates/core/home_page.html",
+				"/home/eugen/docker-wagtail-www/project/core/templates/core/one_column_main_page.html",
+				"/home/eugen/docker-wagtail-www/project/core/static/bower_components/foundation/scss/foundation/components/_global.scss",
+				"/home/eugen/test.json",
+				"/home/eugen/docker-wagtail-www/project/core/static/www2/scss/app.scss",
+				"/home/eugen/RinceWind/rincewind/rincewind/atml/urls.py",
+				"/home/eugen/RinceWind/rincewind/rincewind/atml/views.py",
+				"/home/eugen/RinceWind/rincewind/rincewind/rincewind/urls.py",
+				"/home/eugen/RinceWind/rincewind/rincewind/rincewind/celery.py",
+				"/home/eugen/RinceWind/myax/update.sh",
+				"/home/eugen/RinceWind/rincewind/rincewind/atml/utils.py",
+				"/home/eugen/.config/sublime-text-3/Packages/SublimeCodeIntel/Default (Linux).sublime-keymap",
+				"/home/eugen/RinceWind/rincewind/rincewind/rincewind/wsgi.py",
+				"/home/eugen/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+				"/home/eugen/RinceWind/rincewind/docs/conf.py",
+				"/home/eugen/scrips/init1.sh",
+				"/home/eugen/Downloads/init.sh",
+				"/home/eugen/.config/sublime-text-3/Packages/User/Glue.sublime-settings",
+				"/home/eugen/RinceWind/rincewind/rincewind/rincewind/git status",
+				"/home/eugen/RinceWind/morgana/lib/external-scripts/ga.js",
+				"/home/eugen/RinceWind/rincewind/docs/deploy.rst",
+				"/home/eugen/RinceWind/morgana/config/environment.js",
+				"/home/eugen/RinceWind/myax/myax/templates/account/verified_email_required.html",
+				"/home/eugen/RinceWind/morgana/app/helpers/text-with-errors.js",
+				"/home/eugen/RinceWind/cinderella/LICENSE.txt",
+				"/home/eugen/RinceWind/myax/myax/templates/account/messages/logged_in.txt",
+				"/home/eugen/RinceWind/morgana/tests/unit/controllers/user-check-list/index-test.js"
+			],
+			"find":
+			{
+				"height": 35.0
+			},
+			"find_in_files":
+			{
+				"height": 93.0,
+				"where_history":
+				[
+					"/home/eugen/docker-wagtail-www",
+					"<project>",
+					"/home/eugen/RinceWind/myax",
+					"<project>",
+					"/home/eugen/RinceWind/rincewind",
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"on",
+					"post",
+					"serve",
+					"gulpserve",
+					"https: true",
+					"cors",
+					"cros",
+					"same",
+					"elements",
+					"src=\"/",
+					"/",
+					"{\n",
+					"setFavorite",
+					"setFavorit",
+					"setFavorite",
+					"favorite-tap",
+					"avorite-tap",
+					"favoriteTapped",
+					"robotSaysTextparam",
+					"\n            ",
+					"font-size",
+					"gain",
+					"False",
+					"debug",
+					"content",
+					"wagtail_urls",
+					"script",
+					"navigation ",
+					"navigation row",
+					"set_password",
+					"setpassword",
+					"User",
+					"token",
+					"core-select",
+					"act",
+					"core-select",
+					"act",
+					"act  ",
+					"action",
+					"  ",
+					"name",
+					"html",
+					"robert",
+					"danije",
+					"danjela",
+					"lisa",
+					"alex",
+					"ka",
+					"adela",
+					"peter",
+					"arne",
+					"jochen",
+					"philipp",
+					"bern",
+					"cor",
+					"bea",
+					"simon",
+					"men",
+					"andreas",
+					"zsolt",
+					"dennis",
+					"denis",
+					"sarah",
+					"paz",
+					"niki",
+					"ki",
+					"josef",
+					"baris",
+					"armin",
+					"jose",
+					" W.*",
+					" R.*",
+					" W.*",
+					" V.*",
+					" U.*",
+					" T.*",
+					" S.*",
+					" R.*",
+					" P.*",
+					" O.*",
+					" L.*",
+					" M.*",
+					"M.*",
+					"ML.*",
+					" L.*",
+					"L.*",
+					" K.*",
+					"icon2.*",
+					"padding",
+					"console.*",
+					"console.",
+					":{{",
+					"toggleClass",
+					"                $(\".arrow-icon-1\").css(\"visibility\",\"hidden\" );\n                $(\".arrow-icon-2\").css(\"visibility\",\"visible\");\n",
+					"li",
+					"&li",
+					"#77bc1f",
+					"display",
+					"		{",
+					"self",
+					"static",
+					"large-2",
+					"large-9",
+					"large-1",
+					"large-25",
+					"large-1",
+					"large-9",
+					"large-8",
+					"li",
+					"employee",
+					"svg",
+					"</td>",
+					"<td>",
+					"</tr>",
+					"<tr>",
+					"employee",
+					"selection",
+					" {",
+					"button",
+					"hacks",
+					"employee",
+					"employe",
+					"						\n",
+					"</td>",
+					"<td>",
+					"</tr>",
+					"<tr>",
+					"<table>"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"True",
+					"",
+					"large-1",
+					"large-14",
+					"large-2",
+					"large-14",
+					"large-2",
+					"large-15",
+					"large-9",
+					""
+				],
+				"reverse": false,
+				"show_context": false,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": false
+			},
+			"folders":
+			[
+				{
+					"path": "/home/eugen/gandalf"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 2,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/eugen/gandalf/app/index.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 80,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										64,
+										64
+									]
+								],
+								"settings":
+								{
+									"auto_complete": false,
+									"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage",
+									"tabs_extra_last_activated": 1431358734.19,
+									"tabs_extra_last_activated_sheet_index": 0
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/eugen/gandalf/bower_components/post-service.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2669,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2459,
+										2459
+									]
+								],
+								"settings":
+								{
+									"auto_complete": false,
+									"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage",
+									"tab_size": 2,
+									"tabs_extra_last_activated": 1431359686.43,
+									"tabs_extra_last_activated_sheet_index": 1,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 581.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/home/eugen/gandalf/auth-elm.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 222,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										222,
+										222
+									]
+								],
+								"settings":
+								{
+									"_anf_new": "",
+									"auto_complete": false,
+									"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage",
+									"tabs_extra_last_activated": 1431360462.64,
+									"tabs_extra_last_activated_sheet_index": 2,
+									"tabs_extra_spawned": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/home/eugen/gandalf/bower_components/paper-slider/paper-slider.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 10180,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										3240,
+										3240
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage",
+									"tab_size": 2,
+									"tabs_extra_last_activated": 1431358708.82,
+									"tabs_extra_last_activated_sheet_index": 1,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 225.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 26.0
+			},
+			"input":
+			{
+				"height": 33.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 311.0
+			},
+			"output.find_results":
+			{
+				"height": 118.0
+			},
+			"output.git":
+			{
+				"height": 27.0
+			},
+			"output.unsaved_changes":
+			{
+				"height": 104.0
+			},
+			"pinned_build_system": "",
+			"position": "1,0,0,0,0,317,30,957,510,3840,1080",
+			"project": "",
+			"replace":
+			{
+				"height": 48.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"post",
+						"bower_components/post-service.html"
+					],
+					[
+						"paper-slider",
+						"bower_components/paper-slider/paper-slider.html"
+					],
+					[
+						"inde",
+						"app/index.html"
+					],
+					[
+						"in",
+						"node_modules/web-component-tester/node_modules/wd/install-node.sh"
+					],
+					[
+						"bas",
+						"myax/templates/base.html"
+					],
+					[
+						"docker",
+						"docker-compose.yml"
+					],
+					[
+						"post-ser",
+						"post-service/post-service.html"
+					],
+					[
+						"post-list",
+						"starter/post-list.html"
+					],
+					[
+						"post-card",
+						"starter/post-card.html"
+					],
+					[
+						"index",
+						"starter/index.html"
+					],
+					[
+						"tea",
+						"project/core/templates/core/team_page.html"
+					],
+					[
+						"",
+						"project/core/templates/core/base.html"
+					],
+					[
+						"dev",
+						"project/project/settings/dev.py"
+					],
+					[
+						"base",
+						"project/project/settings/base.py"
+					],
+					[
+						"u",
+						"project/project/urls.py"
+					],
+					[
+						"url",
+						"project/project/urls.py"
+					],
+					[
+						"mod",
+						"myax/main/models.py"
+					],
+					[
+						"ba",
+						"project/core/templates/core/base.html"
+					],
+					[
+						"my",
+						"polymer-tutorial-master/myax/myax.html"
+					],
+					[
+						"m",
+						"project/core/models.py"
+					],
+					[
+						"mo",
+						"project/core/models.py"
+					],
+					[
+						"hoe",
+						"project/core/templates/core/home_page.html"
+					],
+					[
+						"a",
+						"~/www2/scss/app.scss"
+					],
+					[
+						"t",
+						"project/core/static/js/teampage.js"
+					],
+					[
+						"te",
+						"project/core/static/js/teampage.js"
+					],
+					[
+						"ap",
+						"project/core/static/js/app.js"
+					],
+					[
+						"app",
+						"~/www2/scss/app.scss"
+					],
+					[
+						"app.css",
+						"project/core/static/css/app.css"
+					],
+					[
+						"appcss",
+						"project/core/static/css/app.css"
+					],
+					[
+						"req",
+						"project/requirements.txt"
+					],
+					[
+						"app.s",
+						"project/core/static/www2/scss/app.scss"
+					],
+					[
+						"admin",
+						"rincewind/rincewind/atml/admin.py"
+					],
+					[
+						"adm",
+						"rincewind/rincewind/atml/admin.py"
+					],
+					[
+						"testexel",
+						"rincewind/rincewind/atml/tests/test_excel_io.py"
+					],
+					[
+						"atmlur",
+						"rincewind/rincewind/atml/urls.py"
+					],
+					[
+						"rincewindcel",
+						"rincewind/rincewind/rincewind/celery.py"
+					],
+					[
+						".py",
+						"cinderella/docs/__init__.py"
+					],
+					[
+						"ur",
+						"rincewind/rincewind/rincewind/urls.py"
+					],
+					[
+						"urls",
+						"rincewind/rincewind/rincewind/urls.py"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"~/RinceWind/rincewind/rincewind/atml/Rincewind.sublime-workspace"
+					]
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 392.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"#map_canvas"
+					]
+				],
+				"width": 422.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 489.0,
+			"status_bar_visible": false,
+			"template_settings":
+			{
+				"max_columns": 1
+			},
+			"window_id": 52,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+			"/home/eugen/docker-wagtail-www/docker-wagtail.sublime-workspace",
+			"/home/eugen/docker-wagtail-www/polymer.sublime-workspace",
+			"/home/eugen/web.sublime-workspace",
+			"/home/eugen/Documents/webside.sublime-workspace",
+			"/home/eugen/RinceWind/rincewind/rincewind/atml/Rincewind.sublime-workspace"
+		]
+	}
+}
