@@ -3614,7 +3614,7 @@
 					"file": "/home/eugen/scripts/down.sh",
 					"settings":
 					{
-						"buffer_size": 12,
+						"buffer_size": 83,
 						"line_ending": "Unix"
 					}
 				},
@@ -4494,7 +4494,7 @@
 			"groups":
 			[
 				{
-					"selected": 6,
+					"selected": 5,
 					"sheets":
 					[
 						{
@@ -4525,7 +4525,7 @@
 								"translation.y": 170.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 1,
+							"stack_index": 2,
 							"type": "text"
 						},
 						{
@@ -4663,21 +4663,21 @@
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 12,
+								"buffer_size": 83,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										12,
-										12
+										82,
+										82
 									]
 								],
 								"settings":
 								{
 									"syntax": "Packages/ShellScript/Shell-Unix-Generic.tmLanguage",
-									"tabs_extra_last_activated": 1431423478.1,
+									"tabs_extra_last_activated": 1431430056.48,
 									"tabs_extra_last_activated_sheet_index": 5,
 									"tabs_extra_spawned": true
 								},
@@ -4685,7 +4685,7 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 2,
+							"stack_index": 0,
 							"type": "text"
 						},
 						{
@@ -4708,7 +4708,7 @@
 								"settings":
 								{
 									"syntax": "Packages/ShellScript/Shell-Unix-Generic.tmLanguage",
-									"tabs_extra_last_activated": 1431429004.44,
+									"tabs_extra_last_activated": 1431429962.47,
 									"tabs_extra_last_activated_sheet_index": 6,
 									"tabs_extra_spawned": true
 								},
@@ -4716,7 +4716,7 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 0,
+							"stack_index": 1,
 							"type": "text"
 						},
 						{
