@@ -1,10 +1,14 @@
 {
 	"folder_history":
 	[
-		"/home/eugen/RinceWind/myax",
-		"/home/eugen/docker-wagtail-www",
 		"/home/eugen/gandalf",
+		"/home/eugen/docker-wagtail-www/project",
+		"/home/eugen/TestsandTutorial",
+		"/home/eugen/docker-wagtail-www",
 		"/home/eugen/dumbledore",
+		"/home/eugen/Documents",
+		"/etc/rc0.d",
+		"/home/eugen/RinceWind/myax",
 		"/home/eugen/RinceWind",
 		"/home/eugen/polymer-tutorial-master",
 		"/home/eugen/Templates",
@@ -21,7 +25,7 @@
 		"/home/eugen/www2/foundation-libsass-template"
 	],
 	"last_version": 3083,
-	"last_window_id": 51,
+	"last_window_id": 62,
 	"log_indexing": false,
 	"settings":
 	{
@@ -32,6 +36,70 @@
 			{
 				"selected_items":
 				[
+					[
+						"line",
+						"lineHeight"
+					],
+					[
+						"l",
+						"lineHeight"
+					],
+					[
+						"parse",
+						"parseFloat〔function〕"
+					],
+					[
+						"par",
+						"parse	$.parseXML()"
+					],
+					[
+						"po",
+						"pos:a	position:absolute"
+					],
+					[
+						"abs",
+						"absolute"
+					],
+					[
+						"ab",
+						"absolute"
+					],
+					[
+						"di",
+						"display: "
+					],
+					[
+						"co",
+						"contactContainers"
+					],
+					[
+						"e",
+						"each"
+					],
+					[
+						"for",
+						"forEach"
+					],
+					[
+						"robot",
+						"robotSaysText"
+					],
+					[
+						"r",
+						"robotSaysTextLenght"
+					],
+					[
+						"com",
+						"compress"
+					],
+					[
+						"back",
+						"background-color"
+					],
+					[
+						"pa",
+						"paper-slider	paper-slider"
+					],
 					[
 						"se",
 						"sender"
@@ -79,10 +147,6 @@
 					[
 						"ro",
 						"robotSaysText"
-					],
-					[
-						"robot",
-						"robotSaysparam〔argument〕"
 					],
 					[
 						"R",
@@ -133,10 +197,6 @@
 						"link"
 					],
 					[
-						"po",
-						"polymer/"
-					],
-					[
 						"end",
 						"endif"
 					],
@@ -167,10 +227,6 @@
 					[
 						"em",
 						"email"
-					],
-					[
-						"back",
-						"background-color"
 					],
 					[
 						"bac",
@@ -213,10 +269,6 @@
 						"pb	padding-bottom"
 					],
 					[
-						"e",
-						"email"
-					],
-					[
 						"un",
 						"unbind	.unbind()"
 					],
@@ -243,10 +295,6 @@
 					[
 						"ch",
 						"children	.children()"
-					],
-					[
-						"par",
-						"parents"
 					],
 					[
 						"toggle",
@@ -279,10 +327,6 @@
 					[
 						"emp",
 						"employees"
-					],
-					[
-						"co",
-						"console"
 					],
 					[
 						"if",
@@ -473,12 +517,100 @@
 			"command_palette":
 			{
 				"height": 392.0,
-				"last_filter": "in",
+				"last_filter": "show",
 				"selected_items":
 				[
 					[
+						"show",
+						"SublimeLinter: Show All Errors"
+					],
+					[
+						"j",
+						"Format: Javascript"
+					],
+					[
+						"tri",
+						"Trimmer: Collapse spaces."
+					],
+					[
+						"h",
+						"HTMLBeautify"
+					],
+					[
+						"to",
+						"Toggle Comment"
+					],
+					[
+						"sas",
+						"SassBeautify"
+					],
+					[
+						"ht",
+						"HTMLBeautify"
+					],
+					[
+						"key",
+						"Preferences: Key Bindings - Default"
+					],
+					[
 						"in",
 						"Package Control: Install Package"
+					],
+					[
+						"htm",
+						"HTMLBeautify"
+					],
+					[
+						"bea",
+						"SassBeautify"
+					],
+					[
+						"for",
+						"Format: Javascript"
+					],
+					[
+						"js",
+						"Format: Javascript"
+					],
+					[
+						"sublimelinter ",
+						"SublimeLinter: Next Error"
+					],
+					[
+						"sub",
+						"SublimeLinter: Enable Linter"
+					],
+					[
+						"set s js",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"sublimeLinter ",
+						"SublimeLinter: Enable Linter"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"open",
+						"Preferences: OpenFolder Settings - Default"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Upgrade/Overwrite All Packages"
+					],
+					[
+						"reve",
+						"File: Reveal"
+					],
+					[
+						"user",
+						"Preferences: Key Bindings - User"
+					],
+					[
+						"ke",
+						"Preferences: Key Bindings - Default"
 					],
 					[
 						"open f",
@@ -537,10 +669,6 @@
 						"SassBeautify"
 					],
 					[
-						"htm",
-						"HTMLBeautify"
-					],
-					[
 						"surround",
 						"Surround: surround selection"
 					],
@@ -559,10 +687,6 @@
 					[
 						"sublime linter",
 						"SublimeLinter: Disable Linter"
-					],
-					[
-						"show",
-						"SublimeLinter: Don’t Show Errors on Save"
 					],
 					[
 						"set syntax dj",
@@ -593,20 +717,8 @@
 						"Git: Diff Current File"
 					],
 					[
-						"ht",
-						"HTMLBeautify"
-					],
-					[
 						"tog",
 						"Toggle Block Comment"
-					],
-					[
-						"js",
-						"Format: Javascript"
-					],
-					[
-						"to",
-						"Toggle Comment"
 					],
 					[
 						"html ",
@@ -617,24 +729,12 @@
 						"SassBeautify"
 					],
 					[
-						"bea",
-						"SassBeautify"
-					],
-					[
 						"file s",
 						"File: Save All"
 					],
 					[
-						"for",
-						"Format: Javascript"
-					],
-					[
 						"install ",
 						"Package Control: Install Package"
-					],
-					[
-						"j",
-						"Format: Javascript"
 					],
 					[
 						"sorrou",
@@ -667,10 +767,6 @@
 					[
 						"pa",
 						"Package Control: Install Package"
-					],
-					[
-						"h",
-						"HTMLBeautify"
 					],
 					[
 						"set bash",
@@ -713,10 +809,6 @@
 						"Package Control: Install Package"
 					],
 					[
-						"install",
-						"Package Control: Install Package"
-					],
-					[
 						"sho",
 						"SublimeLinter: Show All Errors"
 					],
@@ -745,20 +837,12 @@
 						"Build With: SASS"
 					],
 					[
-						"reve",
-						"File: Reveal"
-					],
-					[
 						"http",
 						"RESTer: HTTP Request"
 					],
 					[
 						"bracket",
 						"Preferences: BracketGuard Settings - Default"
-					],
-					[
-						"key",
-						"Preferences: Key Bindings - User"
 					],
 					[
 						"vie",
@@ -779,10 +863,6 @@
 					[
 						"find",
 						"FindKeyConflicts: All Conflicts"
-					],
-					[
-						"user",
-						"Preferences: Key Bindings - User"
 					],
 					[
 						"prin",
@@ -937,10 +1017,6 @@
 						"Set Syntax: Python (Django)"
 					],
 					[
-						"sub",
-						"SublimeLinter: Choose Lint Mode"
-					],
-					[
 						"sublime",
 						"SublimeLinter: Choose Gutter Theme"
 					],
@@ -955,34 +1031,6 @@
 					[
 						"setLint mo",
 						"SublimeLinter: Choose Lint Mode"
-					],
-					[
-						"pc ",
-						"Package Control: Install Package"
-					],
-					[
-						"lint mo",
-						"SublimeLinter: Choose Lint Mode"
-					],
-					[
-						"pc re",
-						"Package Control: Remove Package"
-					],
-					[
-						"pc li",
-						"Package Control: List Packages"
-					],
-					[
-						"goo",
-						"Google Search: Search selected text/word"
-					],
-					[
-						"pa lis",
-						"Package Control: List Packages"
-					],
-					[
-						"packc i",
-						"Package Control: Advanced Install Package"
 					]
 				],
 				"width": 746.0
@@ -1010,6 +1058,10 @@
 			},
 			"file_history":
 			[
+				"/home/eugen/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+				"/home/eugen/docker-wagtail-www/Dockerfile",
+				"/home/eugen/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+				"/home/eugen/gandalf/node_modules/web-component-tester/node_modules/wd/install-node.sh",
 				"/home/eugen/polymer-tutorial-master/starter/index.html",
 				"/home/eugen/polymer-tutorial-master/starter/post-list.html",
 				"/home/eugen/polymer-tutorial-master/starter/post-card.html",
@@ -1041,15 +1093,12 @@
 				"/home/eugen/docker-wagtail-www/project/core/static/img/email5.svg",
 				"/home/eugen/www2/css/app.css",
 				"/home/eugen/.config/sublime-text-3/Packages/BracketGuard/BracketGuard.sublime-settings",
-				"/home/eugen/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
-				"/home/eugen/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
 				"/home/eugen/.config/sublime-text-3/Packages/google-search/google_search.sublime-settings",
 				"/home/eugen/docker-wagtail-www/project/core/migrations/0018_auto_20150408_1904.py",
 				"/home/eugen/docker-wagtail-www/project/requirements.txt",
 				"/home/eugen/docker-wagtail-www/project/project/wsgi.py",
 				"/home/eugen/docker-wagtail-www/project/core/templates/core/two_column_main_page.html",
 				"/home/eugen/docker-wagtail-www/project/manage.py",
-				"/home/eugen/docker-wagtail-www/Dockerfile",
 				"/home/eugen/RinceWind/rincewind/rincewind/atml/admin.py",
 				"/home/eugen/RinceWind/rincewind/rincewind/atml/models.py",
 				"/home/eugen/www2/template.html",
@@ -1104,6 +1153,22 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"email",
+					"console*.*",
+					"console*.",
+					"console.",
+					"console",
+					"indent",
+					"ident",
+					"<div class=\"row\">",
+					"bottom",
+					"b",
+					"				$.each(elements , function() {\n					return $(this).animate({\n						bottom: animateTo,\n					}, 250);\n});",
+					"that",
+					"icon1",
+					"$()",
+					"icon1",
+					"on",
 					"post",
 					"serve",
 					"gulpserve",
@@ -1215,30 +1280,15 @@
 					"employee",
 					"svg",
 					"</td>",
-					"<td>",
-					"</tr>",
-					"<tr>",
-					"employee",
-					"selection",
-					" {",
-					"button",
-					"hacks",
-					"employee",
-					"employe",
-					"						\n",
-					"</td>",
-					"<td>",
-					"</tr>",
-					"<tr>",
-					"<table>",
-					"table"
+					"<td>"
 				],
 				"highlight": true,
 				"in_selection": false,
 				"preserve_case": false,
-				"regex": false,
+				"regex": true,
 				"replace_history":
 				[
+					"",
 					"True",
 					"",
 					"large-1",
@@ -1258,7 +1308,7 @@
 			},
 			"incremental_find":
 			{
-				"height": 26.0
+				"height": 25.0
 			},
 			"input":
 			{
@@ -1284,15 +1334,63 @@
 			"pinned_build_system": "",
 			"replace":
 			{
-				"height": 48.0
+				"height": 64.0
 			},
-			"save_all_on_build": true,
+			"save_all_on_build": false,
 			"select_file":
 			{
 				"height": 0.0,
 				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"te",
+						"core/static/js/teampage.js"
+					],
+					[
+						"tem",
+						"project/core/static/js/teampage.js"
+					],
+					[
+						"404",
+						"project/core/static/js/404.js"
+					],
+					[
+						"produpc",
+						"project/core/templates/core/product_page.html"
+					],
+					[
+						"one",
+						"project/core/templates/core/one_column_main_page.html"
+					],
+					[
+						"twpo",
+						"project/core/templates/core/two_column_main_page.html"
+					],
+					[
+						"bas",
+						"project/core/templates/core/base.html"
+					],
+					[
+						"mode",
+						"project/core/models.py"
+					],
+					[
+						"post",
+						"bower_components/post-service.html"
+					],
+					[
+						"paper-slider",
+						"bower_components/paper-slider/paper-slider.html"
+					],
+					[
+						"inde",
+						"app/index.html"
+					],
+					[
+						"in",
+						"node_modules/web-component-tester/node_modules/wd/install-node.sh"
+					],
 					[
 						"docker",
 						"docker-compose.yml"
@@ -1304,10 +1402,6 @@
 					[
 						"post-list",
 						"starter/post-list.html"
-					],
-					[
-						"post",
-						"finished/post-list.html"
 					],
 					[
 						"post-card",
@@ -1332,10 +1426,6 @@
 					[
 						"base",
 						"project/project/settings/base.py"
-					],
-					[
-						"bas",
-						"project/core/templates/core/base.html"
 					],
 					[
 						"u",
@@ -1375,10 +1465,6 @@
 					],
 					[
 						"t",
-						"project/core/static/js/teampage.js"
-					],
-					[
-						"te",
 						"project/core/static/js/teampage.js"
 					],
 					[
@@ -1469,7 +1555,7 @@
 			"show_minimap": true,
 			"show_open_files": true,
 			"show_tabs": true,
-			"side_bar_visible": true,
+			"side_bar_visible": false,
 			"side_bar_width": 489.0,
 			"status_bar_visible": false,
 			"template_settings":
@@ -1486,6 +1572,118 @@
 			{
 				"selected_items":
 				[
+					[
+						"paper-in",
+						"paper-input-decorator	paper-input-decorator"
+					],
+					[
+						"sub",
+						"submit"
+					],
+					[
+						"auth",
+						"authform"
+					],
+					[
+						"s",
+						"submit"
+					],
+					[
+						"fun",
+						"fun	Function"
+					],
+					[
+						"au",
+						"authform"
+					],
+					[
+						"su",
+						"submitButton"
+					],
+					[
+						"add",
+						"addEventListener"
+					],
+					[
+						"fu",
+						"fun	Function"
+					],
+					[
+						"de",
+						"detail"
+					],
+					[
+						"me",
+						"method	Attr"
+					],
+					[
+						"p",
+						"paper-button	paper-button"
+					],
+					[
+						"line",
+						"lineHeight"
+					],
+					[
+						"l",
+						"lineHeight"
+					],
+					[
+						"parse",
+						"parseFloat〔function〕"
+					],
+					[
+						"par",
+						"parse	$.parseXML()"
+					],
+					[
+						"po",
+						"pos:a	position:absolute"
+					],
+					[
+						"abs",
+						"absolute"
+					],
+					[
+						"ab",
+						"absolute"
+					],
+					[
+						"di",
+						"display: "
+					],
+					[
+						"co",
+						"contactContainers"
+					],
+					[
+						"e",
+						"each"
+					],
+					[
+						"for",
+						"forEach"
+					],
+					[
+						"robot",
+						"robotSaysText"
+					],
+					[
+						"r",
+						"robotSaysTextLenght"
+					],
+					[
+						"com",
+						"compress"
+					],
+					[
+						"back",
+						"background-color"
+					],
+					[
+						"pa",
+						"paper-slider	paper-slider"
+					],
 					[
 						"se",
 						"sender"
@@ -1535,20 +1733,12 @@
 						"robotSaysText"
 					],
 					[
-						"robot",
-						"robotSaysparam〔argument〕"
-					],
-					[
 						"R",
 						"RobotTypes"
 					],
 					[
 						"rob",
 						"robotSaysText〔variable〕"
-					],
-					[
-						"fu",
-						"function"
 					],
 					[
 						"set",
@@ -1587,10 +1777,6 @@
 						"link"
 					],
 					[
-						"po",
-						"polymer/"
-					],
-					[
 						"end",
 						"endif"
 					],
@@ -1621,10 +1807,6 @@
 					[
 						"em",
 						"email"
-					],
-					[
-						"back",
-						"background-color"
 					],
 					[
 						"bac",
@@ -1663,14 +1845,6 @@
 						"rotate90"
 					],
 					[
-						"p",
-						"pb	padding-bottom"
-					],
-					[
-						"e",
-						"email"
-					],
-					[
 						"un",
 						"unbind	.unbind()"
 					],
@@ -1697,10 +1871,6 @@
 					[
 						"ch",
 						"children	.children()"
-					],
-					[
-						"par",
-						"parents"
 					],
 					[
 						"toggle",
@@ -1733,10 +1903,6 @@
 					[
 						"emp",
 						"employees"
-					],
-					[
-						"co",
-						"console"
 					],
 					[
 						"if",
@@ -1883,18 +2049,10 @@
 			"buffers":
 			[
 				{
-					"file": "/home/eugen/RinceWind/myax/myax/templates/base.html",
+					"file": "/home/eugen/gandalf/app/elements/auth-elm.html",
 					"settings":
 					{
-						"buffer_size": 6128,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/home/eugen/RinceWind/myax/myax/static/bower_components/post-service.html",
-					"settings":
-					{
-						"buffer_size": 2834,
+						"buffer_size": 1936,
 						"line_ending": "Unix"
 					}
 				}
@@ -1947,16 +2105,108 @@
 			"command_palette":
 			{
 				"height": 392.0,
-				"last_filter": "to",
+				"last_filter": "sho",
 				"selected_items":
 				[
 					[
+						"sho",
+						"SublimeLinter: Show All Errors"
+					],
+					[
 						"to",
-						"Toggle Block Comment"
+						"Toggle Comment"
+					],
+					[
+						"js",
+						"Pretty JSON: Format (Pretty Print) JSON"
+					],
+					[
+						"for",
+						"Pretty JSON: Format (Pretty Print) JSON"
+					],
+					[
+						"show",
+						"SublimeLinter: Show All Errors"
+					],
+					[
+						"tre",
+						"Trimmer: Remove blank spaces."
+					],
+					[
+						"j",
+						"Format: Javascript"
+					],
+					[
+						"tri",
+						"Trimmer: Collapse spaces."
+					],
+					[
+						"h",
+						"HTMLBeautify"
+					],
+					[
+						"sas",
+						"SassBeautify"
+					],
+					[
+						"ht",
+						"HTMLBeautify"
+					],
+					[
+						"key",
+						"Preferences: Key Bindings - Default"
 					],
 					[
 						"in",
 						"Package Control: Install Package"
+					],
+					[
+						"htm",
+						"HTMLBeautify"
+					],
+					[
+						"bea",
+						"SassBeautify"
+					],
+					[
+						"sublimelinter ",
+						"SublimeLinter: Next Error"
+					],
+					[
+						"sub",
+						"SublimeLinter: Enable Linter"
+					],
+					[
+						"set s js",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"sublimeLinter ",
+						"SublimeLinter: Enable Linter"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"open",
+						"Preferences: OpenFolder Settings - Default"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Upgrade/Overwrite All Packages"
+					],
+					[
+						"reve",
+						"File: Reveal"
+					],
+					[
+						"user",
+						"Preferences: Key Bindings - User"
+					],
+					[
+						"ke",
+						"Preferences: Key Bindings - Default"
 					],
 					[
 						"open f",
@@ -2015,10 +2265,6 @@
 						"SassBeautify"
 					],
 					[
-						"htm",
-						"HTMLBeautify"
-					],
-					[
 						"surround",
 						"Surround: surround selection"
 					],
@@ -2037,10 +2283,6 @@
 					[
 						"sublime linter",
 						"SublimeLinter: Disable Linter"
-					],
-					[
-						"show",
-						"SublimeLinter: Don’t Show Errors on Save"
 					],
 					[
 						"set syntax dj",
@@ -2071,16 +2313,8 @@
 						"Git: Diff Current File"
 					],
 					[
-						"ht",
-						"HTMLBeautify"
-					],
-					[
 						"tog",
 						"Toggle Block Comment"
-					],
-					[
-						"js",
-						"Format: Javascript"
 					],
 					[
 						"html ",
@@ -2091,24 +2325,12 @@
 						"SassBeautify"
 					],
 					[
-						"bea",
-						"SassBeautify"
-					],
-					[
 						"file s",
 						"File: Save All"
 					],
 					[
-						"for",
-						"Format: Javascript"
-					],
-					[
 						"install ",
 						"Package Control: Install Package"
-					],
-					[
-						"j",
-						"Format: Javascript"
 					],
 					[
 						"sorrou",
@@ -2141,10 +2363,6 @@
 					[
 						"pa",
 						"Package Control: Install Package"
-					],
-					[
-						"h",
-						"HTMLBeautify"
 					],
 					[
 						"set bash",
@@ -2187,14 +2405,6 @@
 						"Package Control: Install Package"
 					],
 					[
-						"install",
-						"Package Control: Install Package"
-					],
-					[
-						"sho",
-						"SublimeLinter: Show All Errors"
-					],
-					[
 						"suli",
 						"SublimeLinter: Next Error"
 					],
@@ -2219,20 +2429,12 @@
 						"Build With: SASS"
 					],
 					[
-						"reve",
-						"File: Reveal"
-					],
-					[
 						"http",
 						"RESTer: HTTP Request"
 					],
 					[
 						"bracket",
 						"Preferences: BracketGuard Settings - Default"
-					],
-					[
-						"key",
-						"Preferences: Key Bindings - User"
 					],
 					[
 						"vie",
@@ -2253,10 +2455,6 @@
 					[
 						"find",
 						"FindKeyConflicts: All Conflicts"
-					],
-					[
-						"user",
-						"Preferences: Key Bindings - User"
 					],
 					[
 						"prin",
@@ -2411,10 +2609,6 @@
 						"Set Syntax: Python (Django)"
 					],
 					[
-						"sub",
-						"SublimeLinter: Choose Lint Mode"
-					],
-					[
 						"sublime",
 						"SublimeLinter: Choose Gutter Theme"
 					],
@@ -2425,38 +2619,6 @@
 					[
 						"selt lint",
 						"SublimeLinter: Choose Lint Mode"
-					],
-					[
-						"setLint mo",
-						"SublimeLinter: Choose Lint Mode"
-					],
-					[
-						"pc ",
-						"Package Control: Install Package"
-					],
-					[
-						"lint mo",
-						"SublimeLinter: Choose Lint Mode"
-					],
-					[
-						"pc re",
-						"Package Control: Remove Package"
-					],
-					[
-						"pc li",
-						"Package Control: List Packages"
-					],
-					[
-						"goo",
-						"Google Search: Search selected text/word"
-					],
-					[
-						"pa lis",
-						"Package Control: List Packages"
-					],
-					[
-						"packc i",
-						"Package Control: Advanced Install Package"
 					]
 				],
 				"width": 746.0
@@ -2484,14 +2646,16 @@
 			},
 			"expanded_folders":
 			[
-				"/home/eugen/RinceWind/myax",
-				"/home/eugen/RinceWind/myax/myax",
-				"/home/eugen/RinceWind/myax/myax/atml",
-				"/home/eugen/RinceWind/myax/myax/bulkupload",
-				"/home/eugen/RinceWind/myax/myax/static/bower_components"
+				"/home/eugen/gandalf",
+				"/home/eugen/gandalf/app",
+				"/home/eugen/gandalf/app/elements"
 			],
 			"file_history":
 			[
+				"/home/eugen/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+				"/home/eugen/docker-wagtail-www/Dockerfile",
+				"/home/eugen/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+				"/home/eugen/gandalf/node_modules/web-component-tester/node_modules/wd/install-node.sh",
 				"/home/eugen/polymer-tutorial-master/starter/index.html",
 				"/home/eugen/polymer-tutorial-master/starter/post-list.html",
 				"/home/eugen/polymer-tutorial-master/starter/post-card.html",
@@ -2523,15 +2687,12 @@
 				"/home/eugen/docker-wagtail-www/project/core/static/img/email5.svg",
 				"/home/eugen/www2/css/app.css",
 				"/home/eugen/.config/sublime-text-3/Packages/BracketGuard/BracketGuard.sublime-settings",
-				"/home/eugen/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
-				"/home/eugen/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
 				"/home/eugen/.config/sublime-text-3/Packages/google-search/google_search.sublime-settings",
 				"/home/eugen/docker-wagtail-www/project/core/migrations/0018_auto_20150408_1904.py",
 				"/home/eugen/docker-wagtail-www/project/requirements.txt",
 				"/home/eugen/docker-wagtail-www/project/project/wsgi.py",
 				"/home/eugen/docker-wagtail-www/project/core/templates/core/two_column_main_page.html",
 				"/home/eugen/docker-wagtail-www/project/manage.py",
-				"/home/eugen/docker-wagtail-www/Dockerfile",
 				"/home/eugen/RinceWind/rincewind/rincewind/atml/admin.py",
 				"/home/eugen/RinceWind/rincewind/rincewind/atml/models.py",
 				"/home/eugen/www2/template.html",
@@ -2566,7 +2727,7 @@
 			],
 			"find":
 			{
-				"height": 26.0
+				"height": 25.0
 			},
 			"find_in_files":
 			{
@@ -2586,6 +2747,25 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"\">\n",
+					"authelm",
+					"submitButton",
+					"email",
+					"console*.*",
+					"console*.",
+					"console.",
+					"console",
+					"indent",
+					"ident",
+					"<div class=\"row\">",
+					"bottom",
+					"b",
+					"				$.each(elements , function() {\n					return $(this).animate({\n						bottom: animateTo,\n					}, 250);\n});",
+					"that",
+					"icon1",
+					"$()",
+					"icon1",
+					"on",
 					"post",
 					"serve",
 					"gulpserve",
@@ -2694,33 +2874,15 @@
 					"large-9",
 					"large-8",
 					"li",
-					"employee",
-					"svg",
-					"</td>",
-					"<td>",
-					"</tr>",
-					"<tr>",
-					"employee",
-					"selection",
-					" {",
-					"button",
-					"hacks",
-					"employee",
-					"employe",
-					"						\n",
-					"</td>",
-					"<td>",
-					"</tr>",
-					"<tr>",
-					"<table>",
-					"table"
+					"employee"
 				],
 				"highlight": true,
 				"in_selection": false,
 				"preserve_case": false,
-				"regex": false,
+				"regex": true,
 				"replace_history":
 				[
+					"",
 					"True",
 					"",
 					"large-1",
@@ -2741,63 +2903,30 @@
 			"folders":
 			[
 				{
-					"path": "/home/eugen/RinceWind/myax"
+					"path": "/home/eugen/gandalf"
 				}
 			],
 			"groups":
 			[
 				{
-					"selected": 1,
+					"selected": 0,
 					"sheets":
 					[
 						{
 							"buffer": 0,
-							"file": "/home/eugen/RinceWind/myax/myax/templates/base.html",
+							"file": "/home/eugen/gandalf/app/elements/auth-elm.html",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 6128,
+								"buffer_size": 1936,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										3714,
-										3714
-									]
-								],
-								"settings":
-								{
-									"auto_complete": false,
-									"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage",
-									"tab_size": 4,
-									"tabs_extra_last_activated": 1431351186.45,
-									"tabs_extra_last_activated_sheet_index": 0,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 1,
-							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"file": "/home/eugen/RinceWind/myax/myax/static/bower_components/post-service.html",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 2834,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										1964,
-										1964
+										1442,
+										1442
 									]
 								],
 								"settings":
@@ -2805,18 +2934,13 @@
 									"auto_complete": false,
 									"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage",
 									"tab_size": 2,
-									"tabs_extra_last_activated": 1431353684.65,
-									"tabs_extra_last_activated_sheet_index": 1,
-									"tabs_extra_moving":
-									[
-										3,
-										0
-									],
+									"tabs_extra_last_activated": 1431713021.37,
+									"tabs_extra_last_activated_sheet_index": 0,
 									"tabs_extra_spawned": true,
 									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 1080.0,
+								"translation.y": 282.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 0,
@@ -2827,7 +2951,7 @@
 			],
 			"incremental_find":
 			{
-				"height": 26.0
+				"height": 25.0
 			},
 			"input":
 			{
@@ -2877,9 +3001,9 @@
 			"project": "",
 			"replace":
 			{
-				"height": 48.0
+				"height": 46.0
 			},
-			"save_all_on_build": true,
+			"save_all_on_build": false,
 			"select_file":
 			{
 				"height": 0.0,
@@ -2887,8 +3011,52 @@
 				"selected_items":
 				[
 					[
+						"te",
+						"core/static/js/teampage.js"
+					],
+					[
+						"tem",
+						"project/core/static/js/teampage.js"
+					],
+					[
+						"404",
+						"project/core/static/js/404.js"
+					],
+					[
+						"produpc",
+						"project/core/templates/core/product_page.html"
+					],
+					[
+						"one",
+						"project/core/templates/core/one_column_main_page.html"
+					],
+					[
+						"twpo",
+						"project/core/templates/core/two_column_main_page.html"
+					],
+					[
 						"bas",
-						"myax/templates/base.html"
+						"project/core/templates/core/base.html"
+					],
+					[
+						"mode",
+						"project/core/models.py"
+					],
+					[
+						"post",
+						"bower_components/post-service.html"
+					],
+					[
+						"paper-slider",
+						"bower_components/paper-slider/paper-slider.html"
+					],
+					[
+						"inde",
+						"app/index.html"
+					],
+					[
+						"in",
+						"node_modules/web-component-tester/node_modules/wd/install-node.sh"
 					],
 					[
 						"docker",
@@ -2901,10 +3069,6 @@
 					[
 						"post-list",
 						"starter/post-list.html"
-					],
-					[
-						"post",
-						"finished/post-list.html"
 					],
 					[
 						"post-card",
@@ -2968,10 +3132,6 @@
 					],
 					[
 						"t",
-						"project/core/static/js/teampage.js"
-					],
-					[
-						"te",
 						"project/core/static/js/teampage.js"
 					],
 					[
@@ -3073,7 +3233,7 @@
 			{
 				"max_columns": 1
 			},
-			"window_id": 51,
+			"window_id": 62,
 			"workspace_name": ""
 		}
 	],
